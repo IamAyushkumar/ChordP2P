@@ -3,8 +3,9 @@ Project 3 – Chord Protocol
 Group Info:
 Team members (Authors)
 Name	          UFID        emailID
-Akash Kumar	    80024442    akashkumar@ufl.edu
 Ayush Kumar	    54666085    ayushkumar@ufl.edu
+Akash Kumar	    80024442    akashkumar@ufl.edu
+
 
 How its Works:
 Nodes and keys are assigned to the nodes an m-bit is identified using consistent hashing and SHA-1 is used as a base in consistent hashing. It's uniformly distributed in the same identifier with significantly less collision.
